@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alireza6836812
-- (it's just for github, not my real name)
+(it's just for github, not my real name)
 - 👀 I’m interested in interesting things.
 - 🌱 I’m currently learning about my brain.
 - 📫 How to reach me: you can't
