@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about my brain.
 - 📫 How to reach me: you can't
 - 😄 Pronouns: Hagh daj devu
-- ⚡ Fun fact: I'm fanning Adolf
+- ⚡ Fun fact: facts are not fun.
 
 <!---
 alireza6836812/alireza6836812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
