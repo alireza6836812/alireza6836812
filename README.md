@@ -1,4 +1,3 @@
-If you want to get to know me, you’re in the right place
 ### Who am I?
 
 I’m generally a physics student and a computational physics enthusiast, but I don’t limit myself to just one field. I’m fascinated by psychology, philosophy, musicology, and pretty much anything I can learn. As a programmer, my main focus is data science. As a curious persin, I love figuring out how things work, and what better way to explore the world than through data?
