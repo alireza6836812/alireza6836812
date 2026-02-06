@@ -11,6 +11,6 @@ I dont wanna limit myself, however currently I'm using python and SQL. also I ha
 
 ### How to reach me?
 I don't know if you can, but:
-phone and telegram: 9809105832375
-gmail: alireza6836812@gmail.com, alireza.seyfi03@gmail.com
+###### phone and telegram: 9809105832375
+###### gmail: alireza6836812@gmail.com, alireza.seyfi03@gmail.com
 
