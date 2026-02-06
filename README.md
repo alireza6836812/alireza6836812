@@ -1,16 +1,17 @@
-## If you wanna get to know me, here is the right place
+If you want to get to know me, you’re in the right place
+### Who am I?
 
-### who am I?
-Generraly I'm a physics student and an insusiastic of computational physics, however there is no limitaion for the things I like to learn. Phsychology, phlosophyc, musicology and etc. As a programmer my main focus is on data science. I'm a cusious person who wanna know what's going on around him, so what is better than data?
+I’m generally a physics student and a computational physics enthusiast, but I don’t limit myself to just one field. I’m fascinated by psychology, philosophy, musicology, and pretty much anything I can learn. As a programmer, my main focus is data science. As a curious persin, I love figuring out how things work, and what better way to explore the world than through data?
 
 ### What am I currently working on?
-Right now I'm working as a product develepment specialist in Mohaymen ICT group. We are focusing on data as a procuct prodoctions and in this way we are working with automated tools, databases, metadata tools and etc. their corrolating with big data is what matters to us. on the other hand my personal projects right now is focusing on how to use programming to automated my life and ease it, cuz as he said: living hurts.
+
+Right now I work as a Product Development Specialist at Mohaymen ICT Group. We focus on turning data into useful products, using automated tools, databases, and metadata management — all connected with big data. On the personal side, I’m working on projects to automate parts of my life and make it a little easier, because, well… as he said: linving hurts.
 
 ### What tools do I use?
-I dont wanna limit myself, however currently I'm using python and SQL. also I have some experieces in working with kotlin, and I'm willing to learn Rust and R. other tools are my cup, laptop and phone(I'm using Termux, it feels like I'm a hacker)
 
-### How to reach me?
-I don't know if you can, but:
-###### phone and telegram: 9809105832375
-###### gmail: alireza6836812@gmail.com, alireza.seyfi03@gmail.com
+I like to keep my options open, but Python and SQL are the tools I’m playing with most these days. I also have experience with Kotlin and I’m excited to learn Rust and R. My other tools are my cup, laptop, phone (I often use Termux, it feels like I'm a cool hacker).
 
+### How to reach me
+
+You can reach me via email: alireza6836812@gmail.com
+, alireza.seyfi03@gmail.com
